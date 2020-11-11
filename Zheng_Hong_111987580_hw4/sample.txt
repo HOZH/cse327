@@ -1,0 +1,11 @@
+Name Class_id
+img_001 1
+img_002 2
+img_003 5
+img_004 7
+img_005 2
+img_006 9
+img_007 12
+img_008 12
+img_009 12
+img_010 12
